@@ -53,6 +53,7 @@ When you run it, a **new window pops up**, just like any GUI program.
 ```
 .
 ├── art.py
+├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
